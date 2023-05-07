@@ -1,7 +1,7 @@
 {
   "name": "react-crud",
   "version": "0.1.0",
-  "homepage":"https://noroff-feu-assignments.github.io/project-exam-2-yuntal",
+  "homepage":"https://{yuntal}.github.io/{project-exam-2-yuntal/}",
   "private": true,
   "dependencies": {
     "@hookform/resolvers": "^1.3.5",
