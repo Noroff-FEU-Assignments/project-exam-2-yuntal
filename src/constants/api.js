@@ -1,0 +1,12 @@
+export const BASE_URL = "https://api.noroff.dev/api/v1";
+export const TOKEN_PATH = "/social/auth/login";
+export const TOKEN_PATH_ = "/social/auth/register";
+export const TOKEN_PATH_1 = "/social/profiles# ";
+export const TOKEN_POST = "/social/posts";
+export const NEW_PATH = "https://api.noroff.dev/api/v1/social/posts"
+export const LIKE_POST = "https://api.noroff.dev/api/v1/social/posts/4983/react/symbol";
+export const FOLLOW = "https://api.noroff.dev/api/v1/social/profiles/benimadim";
+export const PROFILE_TOKEN = "social/profiles/benimadim";
+export const USER_TOKEN = 'https://api.noroff.dev/api/v1/social/profiles/benimadim';
+export const POST_TOKEN = 'https://api.noroff.dev/api/v1/social/posts/following';
+export const POST_TOKEN1 = 'https://api.noroff.dev/api/v1/social/posts';
