@@ -1,0 +1,2744 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+::placeholder{
+    color:#fff;
+}
+
+div.explore-card.card{
+    margin-bottom:10%;
+    width: 30rem;
+    height:15rem;
+    margin-left:8rem;
+    background-color: #212121;
+    border:none;
+    border-radius: 0;
+    margin-top:-3.5%;
+    font-family:'Roboto mono';
+}
+div.explore-body{
+    margin-left:-8.5%;
+    padding-left:3rem;
+    max-width:30rem;
+}
+
+
+div.navbar-nav{
+    font-family:'roboto mono'
+
+}
+
+a.nav-link{
+    color:#fff;
+}
+a.nav-link:hover{
+    color:#fff;
+}
+
+.text-area::placeholder{
+    color:#fff;
+}
+
+
+#first-post-card{
+    margin-top:0rem;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+div#post-card{
+    margin-top:0rem;
+}
+
+
+div#profile-body.card-body{
+    height:10rem;
+}
+
+svg.change,svg.fa-comment{
+    margin-top:2.5rem;
+}
+
+h5.counter{
+    margin-left:6rem;
+    font-family:'Roboto Mono';
+}
+
+
+
+
+.password, .email, .name, .password1, .email-2
+{
+    border:2px solid #fff;
+}
+
+div#post-submission{
+    margin-left:-25% !important;
+}
+
+div#feed-body.card-body{
+    background-color: #212121;
+}
+
+div #feed-body-1.card-body{
+    background-color: #212121;
+}
+
+.counter{
+    text-align: left;
+    margin-left:5%;
+}
+
+
+div.card{
+    border:none;
+    background-color: #212121;
+}
+
+.back{
+    color:#fff;
+    margin-bottom:2rem;
+    margin-left:1.4rem;
+    font-family:'Roboto mono';
+}
+
+.logout{
+    width:100px; 
+    padding:0;
+    margin-right:25px;
+    text-transform:uppercase;
+    font-size: 13px;
+}
+
+form#post-form.my-form-2{
+    width:450px;
+    margin-left:-9%;
+}
+
+form#post-form.my-form-3{
+    width:400px;
+}
+
+.h-1{
+    text-align: left;
+    margin-left:-7%;
+    margin-top:10rem;
+    font-size:1.9em;
+    font-family: 'Roboto Mono';
+}
+
+.h-1-{
+    text-align: center;
+}
+html, body, body > div {
+    max-height: 100%;
+    max-width:100%;
+    background-color: #212121;
+  }
+
+ div#root{
+    height:1200px;
+ }
+
+nav {
+    padding: 15px;
+    color: white;
+    background-color: #212121;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+form {
+    margin: 1rem auto;
+    padding: 1rem;
+    border-radius: 10px;
+    max-width: 400px;
+}
+
+.sm-logo{
+    width:100%;
+    margin-left:-5%;
+    margin-top:-3%;
+    border:none;
+}
+.sm-logo-1{
+    width:100%;
+    margin-left:-5%;
+    margin-bottom:3rem;
+    border:none; 
+}
+
+.sl-logo{
+    width:50%;
+    margin-left:18%;
+    margin-top:-3%;
+    border:none;
+}
+.sl-logo-1{
+    width:50%;
+    margin-left:18%;
+    margin-top:-3%;
+    border:none;
+    background-color: #212121;
+}
+
+div.card-body{
+    background: #212121;
+}
+
+
+.this-text{
+    margin-top:-17%;
+}
+
+
+div.container-fluid{
+    width:80%;
+}
+
+div.fluid-2.container{
+    width:100%;
+    padding-left:4rem;
+}
+
+
+
+
+input,
+textarea {
+    font-size: 1rem;
+    margin-top: 10px;
+    width: 100%;
+    padding: 5px;
+}
+
+textarea {
+    height: 200px;
+}
+
+button {
+    font-size: 1rem;
+    margin-top: 10px;
+    padding:5px;
+}
+
+
+
+
+
+.form-error {
+    background: #fbb;
+    color: darkred;
+    padding: 0.5rem 1rem;
+}
+
+
+
+p{
+    color:white;
+    margin-bottom:4rem;
+}
+
+h1{
+    font-size:1.5em;
+    color:white;
+}
+
+.contact{
+    margin-top:3rem;
+}
+
+.title{
+    color:white;
+    border-radius:15px !important;
+}
+
+.details{
+    color:white;
+}
+img{
+    width:40%;
+}
+
+.card{
+    width:250px;
+}
+
+h4{
+    color:white;
+}
+
+.card{
+    padding:2rem;
+}
+
+img{
+    width:230px;
+}
+
+div.container-sm.mt-4.mb-3{
+    background-color: #212121;
+}
+
+#card-custom{
+    margin-left:42.5%;
+    margin-top:5%;
+}
+
+.thisisatest{
+    color:black;
+}
+
+
+.card{
+    background-color: white;
+}
+
+h4{
+    color:black;
+}
+
+.sign-up, .join{
+    color:black !important;
+    font-weight: bold;
+    margin-top:2rem;
+    text-align:center;
+}
+
+
+.name{
+        color:#fff;
+        margin-top:3rem;
+        background-color: #212121;
+        border-radius:8px;
+    }
+
+
+.password{
+    color:#fff;
+    background-color: #212121;
+    margin-top:3rem;
+    margin-bottom:3rem;
+    border-radius:8px;
+    border:2px solid #fff;
+}
+
+.password1{
+    color:#fff;
+    background-color: #212121;
+    margin-top:2rem;
+    margin-bottom:2rem;
+    border-radius:8px;
+}
+
+
+.email{
+    color:#fff;
+    background-color: #212121;
+    border-radius:8px;
+    border:2px solid #fff;
+}
+
+.email-2{
+    margin-top:2rem;
+    color:#fff;
+    background-color: #212121;
+    border-radius:8px;
+}
+
+.avatar-2{ 
+    margin-top:2rem;
+    color:#fff;
+    background-color: #212121;
+    border-radius:8px;
+    border:2px solid #fff;
+
+} 
+    
+
+.new-text1{
+    color:purple;
+}
+
+.login{
+    width:100%;
+    color:white;
+    border:2px solid #fff;
+    background-color: #212121;
+    /*background-color:#0d6efd;*/
+    border-radius: 8px;
+}
+
+.login1{
+    width:100%;
+    color:white;
+    border:2px solid #fff;
+    background-color: #212121;
+    /*background-color:#0d6efd;*/
+    border-radius: 8px;
+}
+
+.register{
+ 
+    color:white;
+    border:none;
+    width:100%;
+    margin-top:1.5rem;
+    border-radius: 10px;
+}
+
+
+button.register, button.register a{
+    background-color:#0d6efd;
+    color:white;
+    width:100%;
+}
+
+
+.register a{
+color:white;
+text-decoration: none;
+}
+
+.register a:hover{
+color: black;
+}
+
+
+
+ul{
+    list-style: none;
+    display:flex;
+}
+
+img{
+    padding-left:10%;
+}
+
+
+
+.welcome{
+    color:white;
+    text-align: center;
+    font-family:'Roboto Mono';
+    font-size:2em;
+    margin-left:-16%;
+}
+
+
+.welcome1{
+    color:black;
+    text-align: center;
+    font-family:'Roboto Mono';
+    font-size:2em;
+    margin-top:9rem;
+    margin-left:-35%;
+}
+
+
+.welcome2{
+    color:black;
+    text-align: center;
+    font-family:'Roboto Mono';
+    font-size: 2em;
+    margin-left:6%;
+    margin-bottom:2rem;
+}
+
+
+.basic{
+    color:white !important;
+}
+
+.welcome22{
+    color:black;
+    text-align: left;
+    font-family:'Roboto Mono';
+    font-size: 1.1em;
+    margin-bottom:2rem;
+    margin-top:6rem;
+    margin-left:-15%;
+    width:95%;
+}
+
+button.navbar-toggler{
+    background-color:white;
+}
+
+button.explore{
+    margin-top:1.5rem;
+    font-size:1.2em;
+    font-family:'Roboto Mono';
+    margin-left:23%;
+}
+
+
+.ad{
+    width:100%;
+    margin-left:-20%;
+    margin-top:7rem;
+}
+
+
+.ideas{
+    font-family:'Roboto Mono';
+    font-size:3.7em;
+    text-align:left;
+    margin-left:10%;
+    margin-top:-4%;
+    color:#fadadd;
+    font-weight: bolder;
+}
+
+/*
+
+.image-container1{
+    height:500px;
+    margin-top:5rem;
+}
+
+
+*/ 
+.signup-container{
+    height:500px;
+    margin-top:5rem;
+}
+
+
+
+ div.container{
+    max-width:100%;
+   }
+
+
+div.container-fluid{
+    height:500px;
+    margin-bottom:5rem;
+
+}
+
+ul.image-list{
+    margin-left:5%;
+    margin-top:10%;
+    }
+
+ul.image-list-1{
+        margin-left:5%;
+        margin-top:-10%;
+        }
+
+
+        .card-title{
+            color:white;
+        }
+
+div#fluid-first.container-fluid{
+    height:700px;
+    padding-top:8%;
+}
+
+div#fluid-second.container-fluid{
+    height:100%;
+    height:650px;
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto;
+    background-color: #FDFD96;
+    width:100%;
+}
+
+div#fluid-last.container-fluid{
+    margin-top:-10%;
+    width:100%;
+    background-color: #d0fefe;
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+div.profile-card.card{
+    width: 28rem;
+    height:49rem; 
+    background-color:#212529;
+    margin-left:5%;
+    font-family:'Roboto mono';
+}
+div#profile-card.card{
+    width: 28rem;
+    height:49rem; 
+    margin-left:5%;
+    font-family:'Roboto mono';
+}
+div.profile-card-.card{
+    width: 21.3rem;
+    height:28rem; 
+    background-color:#212121;
+    font-family:'Roboto mono';
+}
+
+#profile-body-{
+    width:28rem;
+    margin-left:-8.5%;
+}
+
+
+
+
+
+
+
+
+.first-header{
+    margin-top:5%;
+    color:black;
+    text-align: center;
+    font-family:'Roboto Mono';
+    font-weight:bolder;
+}
+
+
+div.row{
+    display:flex;
+}
+
+.post{
+    color:white;
+    border:none;
+    border-radius:8px;
+    border: 2px solid #74B72E;
+}
+
+.div-again{
+    color:white;
+}
+
+.picture{
+    width:50%;
+}
+
+
+
+.tester{
+    color:black;
+}
+
+div.mb-3{
+    border:none;
+}
+.post-body, .post-title{
+    color: #212529;
+}
+
+.profile-title{
+    color:white;
+    padding:2rem;
+    text-align: center;
+}
+.email-title{
+    color:white;
+    padding:2rem;
+    text-align: center;
+    width:100%;
+}
+
+.profile-title-{
+    color:white;
+    padding:2rem;
+    text-align: center;
+}
+.email-title-{
+    color:white;
+    padding:2rem;
+    width:100%;
+}
+
+
+img.card-img-post-card-mid.top{
+    width: 26rem;
+    margin-left:-18.2%;
+    margin-top:-8%;
+}
+
+img.card-img-top-.top{
+    width: 32.8rem;
+    margin-left:-18.5%;
+    margin-top:-8%;
+ }
+
+img.card-img-top.top{
+    width: 32.8rem;
+    margin-left:-18.5%;
+    margin-top:-8%;
+ }
+
+.this-header{
+    color:pink;
+}
+
+.email-title{
+    padding: 2rem;
+    text-align:center;
+}
+ img.card-img-top{
+    width: 30.4rem;
+    margin-left:-18.5%;
+    margin-top:-8%;
+ }
+ img.card-img-top.top-avatar{
+    width: 30.4rem;
+    margin-left:-18.5%;
+    margin-top:-8%;
+ }
+  img.card-img-top.my-avatar{
+        width: 30.6rem;
+        margin-left:-18.5%;
+        margin-top:-7.4%;
+ }
+ img.card-img-top.my-avatar-one{
+    width: 19rem;
+    margin-left:-10%;
+ 
+}
+
+
+
+
+
+#post-body{
+    width:28rem;
+    margin-left:-8.5%;
+    padding-left:3rem;
+}
+#post-body1{
+    width:28.3rem;
+    margin-left:-1.5%;
+}
+
+
+
+
+ /*
+ 
+ .flex{
+    padding:10rem;
+ }
+
+ */
+
+ h1.post-header{
+    color:pink !important;
+ }
+
+div.my-flu{
+    background:  yellow;
+}
+
+.my-form{
+    background-color:#212121;
+    color:#fff;
+}
+
+::placeholder{
+    color:#fff !important;
+}
+
+
+
+
+
+.my-form-one{
+    background-color:#212121;
+    color:#fff;
+    margin-bottom:1rem;
+}
+
+
+.edit, .edit-post{
+    background-color: green;
+    color:white;
+    border:none;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+
+
+ 
+
+
+.update{
+    color:white;
+    background-color: black;
+}
+
+div.w-50.text-center{
+    margin-top:-29.3%;
+    /*margin-left:-9.5%; */
+}
+
+.main-container{
+    text-align:Center;
+}
+
+.fix{
+    margin-left:50%;
+}
+
+.sign-up-now {
+    text-align: center;
+    font-size: 1.4rem;
+    background-color: #212121;
+    padding: .5rem;
+    width:28.3%;
+    margin-left:36%;
+    color:#fff;
+    border-radius: 10px;
+  }
+
+
+.sign-up-now1 {
+    text-align: center;
+    font-size: 1.4rem;
+    background-color: #212121;
+    padding: .5rem;
+    width:28.3%;
+    margin-left:36%;
+    color:#fff;
+    border-radius:8px;
+  }
+
+
+  a.reg.btn.btn-primary{
+    background-color: #fff;
+    border-radius:10px;
+    color:#212121;
+    width:96%;
+  }
+  a.reg1.btn.btn-primary{
+    background-color: #fff;
+    border-radius:10px;
+    color:#212121;
+    width:96%;
+  }
+
+  button.log-out{
+    margin-right:100px;
+  }
+
+
+  
+button.like{
+    border:none;
+    padding-bottom:1rem;
+    margin-top:-15%;
+    color:#fff;
+    background-color: #212529;
+    justify-content:left; 
+    font-size:32px;
+}
+
+  #danger{
+    width:100%;
+  }
+
+
+/*
+
+.like-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+ }
+ .like-button {
+    border: none; 
+    outline: none;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    padding: 10px 20px;
+    border: 2px solid #333;
+ }
+ .like-button:hover {
+    color: #fff;
+    background-color: #333;
+ }
+ .like-button.liked {
+    color: #ff69b4;
+    border-color: #ff69b4;
+ }
+
+*/
+
+
+
+
+ .delete-button{
+    background-color:#212529;
+    border:2px none; 
+    color:white;
+    border-radius:8px;
+    margin-left:-.8rem;
+}
+
+ div.feed-card.card{
+    margin-left:36.5%;
+    border:none;
+    width:400px;
+    height:180px;
+ }
+ div.feed-card-1.card{
+    margin-left:31.5%;
+    border:none;
+    width:400px;
+    height:180px;
+ }
+ 
+
+ .top{
+    width:100%;
+ }
+
+ .edit-avatar{
+    background-color: #212529;
+    color:white;
+    border:none;
+    border-radius:8px;
+    border:2px solid #fff;
+    margin-top:1rem;
+}
+
+.avatar-link::placeholder{
+    color:#fff;
+}
+
+
+ /* For mobile screens */
+ @media (max-width: 768px) {
+    .like-button-container {
+       flex-direction: column;
+    }
+    .like-button {
+       font-size: 16px;
+       margin-bottom: 10px;
+       padding: 8px 16px;
+       border-width: 1px;
+    }
+ } 
+
+.text, .body, .media{
+    border-radius:8px;
+    margin-bottom:8px;
+    border: none;
+}
+
+ .body1{
+    border-radius:8px;
+    margin-bottom:8px;
+    border: none;
+    color:#fff;
+    padding:.2rem;
+}
+
+
+
+.text::placeholder, .body::placeholder, .media::placeholder{
+    color:#fff;
+    padding:.2rem;
+}
+
+textarea.text{
+    background-color: #212529;
+    border:none;
+}
+
+#my-fluid{
+    margin-top:-10% !important;
+}
+
+
+
+ .follow-button {
+    border: none; 
+    outline: none;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    padding: 10px 20px;
+    border: 2px solid #74B72E;
+    border-radius:10px;
+    flex-direction: row;
+    margin-left:-10rem;
+    display: flex;
+ }
+ 
+ .follow-button:hover {
+    color: #fff;
+    background-color: #74B72E;
+    border:none;
+ }
+
+
+ .post{
+    color:white;
+    border:none;
+    border-radius:8px;
+    border: 2px solid #74B72E;
+    background-color: #212121;
+}
+
+.post:hover{
+    color: #fff;
+    background-color: #74B72E;
+    border:none;
+}
+
+input.body1::placeholder{
+    margin-top:10%;
+}
+
+
+ .unfollow-button {
+    border: none; 
+    outline: none;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    padding: 10px 20px;
+    border: 2px solid #D38A8A;
+    border-radius:10px;
+    margin-left:-2rem;
+    flex-direction: row;
+    display: flex;
+ }
+
+ .unfollow-button:hover {
+    color: #fff;
+    background-color: #BC544B;
+    border:none;
+ }
+ .container{
+    display: block;
+    width: 450px;
+    margin: 100px auto 0;
+ }
+
+ #prime{
+    margin-left:30% !important;
+ }
+ #comment-feed{
+    background-color:white;
+ }
+
+ button.comment-button.btn.btn-primary{
+    border:none;
+ }
+ 
+ button.commented-button.btn.btn-primary{
+    background-color: green;
+    border:none;
+    margin-left:1rem;
+ }
+
+
+ 
+ 
+ .flex{
+    display:flex;
+    flex-wrap:flex;
+ }
+ .flex-again{
+    margin-left:-5%;
+ }
+
+
+
+.P{
+    color:white;
+}
+
+#bg-dark{
+    margin-top:5rem;
+}
+
+div.card-body{
+    border-style:none;
+    background-color: #212529;
+    height:28rem;
+    width:100%;
+    margin-left:0;
+}
+
+
+.modal-show{
+    width:300px;
+}
+
+
+div.post-card.card{
+    margin-bottom:10%;
+    width: 30rem;
+    height:15rem;
+    margin-left:8rem;
+    background-color: #212121;
+    border:none;
+    border-radius: 0;
+    margin-top:-3.5%;
+    font-family:'Roboto mono';
+}
+
+
+div.post-card-1.card{
+    margin-bottom:10%;
+    width: 28rem;
+    height:15rem;
+    margin-left:5rem;
+    background-color: #212121;
+    border:none;
+    border-radius: 0;
+    height:24rem;
+    font-family:'Roboto mono';
+}
+
+
+div.post-card-mid.card{
+    margin-bottom:10%;
+    width: 30rem;
+    height:15rem;
+    margin-left:6rem;
+    background-color: #212121;
+    border:none;
+    border-radius: 0;
+}
+
+
+div.post-card-mid.card-body{
+    width:90%;
+    background-color: #212529;
+    margin-left:-8.2%;
+}
+
+
+button.edit.btn.btn-primary{
+    width:90%;
+    height:100%;
+}
+
+
+
+
+
+@media (min-width:280px) and (max-width:414px){
+    div.feed-card.card{
+        max-width:100%;
+        margin-left:5%;
+    }
+    div.feed-card-1.card{
+        max-width:100%;
+        margin-left:5%;
+    }
+    div.profile-card.card{
+        width: 95%;
+        background-color:#212529;
+        border: none;
+        margin-left:1%;
+    }
+  
+
+    
+    img.card-img-top.top-avatar{
+        width:100%;
+        padding:0;
+        margin:0;
+    }
+
+    #bg-dark{
+        margin-bottom:3rem;
+    }
+
+
+    .delete-button{
+        background-color:#212121;
+        border:2px none; 
+        color:white;
+        border-radius:8px;
+    }
+    .password, .email, .name, .password1, .email-2
+    {
+        border:2px solid #fff;
+    }
+    
+    
+    img.card-img-top.post-card-mid{
+        width:100%;
+    
+    }
+    
+    
+    
+    div.card-body{
+        border-style:none;
+        width:100%;
+    }
+    
+    .top-avatar{
+        max-width:100%;
+    }
+    
+    
+    img.my-avatar{
+        max-width:100%;
+        margin-left:-5px;
+        border-bottom:none !important;
+    }
+    div.post-card.card{
+        width:100%;
+        margin-left:1.5rem;
+        background-color: #212121;
+    }
+    div.post-card-mid.card{
+        width:100%;
+        margin:0;
+        padding:0;
+        background-color: #212121;
+    }
+    div.post-card-mid.card-body{
+        width:304px;
+        background-color: #212529;
+        margin-left:-10%;
+    }
+    
+
+    div.container-fluid{
+        width:100%;
+        margin:0 !important;
+        padding:0 !important;
+    }
+    
+    
+    div.row{
+        max-width:100%;
+    }
+    form#post-form.my-form-2{
+        margin-left:4%;
+        width:100%;
+    }
+    form#post-form.my-form-3{
+        width:100%;
+    }
+    form#post-form.my-form-3{
+        width:100%;
+    }
+    img.card-img-top.my-avatar-one{
+        width: 100%;    
+        padding:0;
+        margin:0; 
+    }
+    button.like{
+        background-color: #212121;
+        color:#fff;
+    }
+    div.profile-card.card{
+        background-color: #212121;
+        max-width: 100%;
+        padding:0;
+        margin:1.3rem;
+    }
+    div.profile-card-.card{
+        background-color: #212121;
+        max-width: 95%;
+        padding:0;
+        margin-left:1.3rem;
+        margin-bottom:6rem;
+    }
+    div.container-fluid.fluid{
+        width:30%;
+    }
+
+
+
+    img.card-img-top.my-avatar{
+        width:100%;
+        padding:0;
+        margin:0;
+    }
+    
+    
+    
+    img.card-img-post-card-mid.top{
+        width:308.6px;
+    }
+    svg.trash{
+        background-color: #212121 !important;
+    }
+    
+    
+    
+    #post-body{
+        width:100%;
+        margin:0;
+        padding:0;
+        background-color: #212121;
+    }
+    #post-body1{
+        width:28.3rem;
+        margin-left:-1.5%;
+    }
+    #profile-body{
+        background-color: #212121;
+    }
+    .h-1{
+        text-align:center;
+        margin-left:0;
+    }
+    
+    
+ 
+      a.reg.btn.btn-primary, a.reg1.btn.btn-primary{
+        width:96%;
+      }
+     
+ 
+    div.sign-up-now1, div.sign-up-now{
+        width:95%;
+        padding:0;
+        margin-left:2.5%;
+        background-color: #212121;
+    }
+    .login{
+        border:2px solid #fff;
+    }
+    .logout{
+        width:20%; 
+    }
+    div.fluid-2.container{
+        width:100%;
+        padding-left:1.1rem;
+    }
+    div#fluid-2.row{
+        width:100%;
+        padding:0;
+        margin:0;
+    }
+    .back{
+        margin-left:1.3rem;
+    }
+    
+    .email-title-, .profile-title-{
+        color:white;
+        text-align: center;
+    
+    }
+    
+    div#sm.col-sm-4.col{
+        margin-top:30%;
+    
+    }
+    div#sm2.col-sm-4.col{
+        margin-top:70%;
+    
+    }
+
+    h5.counter{
+        font-size:1.1em;
+        margin-left:12%;
+        
+    }
+    #profile-body-{
+        width:99%;
+        margin-left:.8%;
+        background-color: #212121;
+    }
+    
+    div.post-card-mid.card{
+    width:98%;
+    margin:0;
+    margin-left:-2%;
+    }
+    div.post-card-1.card{
+       margin-left:3%;
+    }
+    }
+    
+    
+
+    @media (min-width:540px) and (max-width:568px){
+
+        .password, .email, .name, .password1, .email-2
+        {
+            border:2px solid #fff;
+        }
+        
+        div.feed-card.card{
+            margin-left:15%;
+        }
+        div.feed-card-1.card{
+            margin-left:15%;
+        }
+        div.profile-card.card{
+            width: 95%;
+            background-color:#212529;
+            border: none;
+            margin-left:1%;
+        }
+        div.post-card-1.card{
+            width: 99%;
+            background-color:#212121;
+            border: none;
+            margin-left:1%;
+            height:30rem;
+        }
+        img.card-img-top.top-avatar{
+            width:100%;
+            padding:0;
+            margin:0;
+        }
+        .delete-button{
+        margin-top:.7rem;
+        margin-left:-10%;
+        background-color: #212121;
+        }
+        
+        img.card-img-top.my-avatar-one{
+            width: 100%;    
+        }
+        
+        img.card-img-top.post-card-mid{
+            width:100%;
+        
+        }
+        
+        
+        
+        div.card-body{
+            border-style:none;
+            width:100%;
+        }
+        
+        .top-avatar{
+            max-width:100%;
+        }
+        
+        img.my-avatar{
+            max-width:100%;
+            margin-left:-5px;
+            border-bottom:none !important;
+        }
+        div.post-card.card{
+            width:100%;
+            margin-left:1.5rem;
+            background-color: #212121;
+        }
+        div.post-card-mid.card{
+            width:100%;
+            margin:0;
+            padding:0;
+            background-color: #212121;
+        }
+        div.post-card-mid.card-body{
+            width:304px;
+            background-color: #212529;
+            margin-left:-10%;
+        }
+        
+        
+        div.container-fluid{
+            width:100%;
+            margin:0 !important;
+            padding:0 !important;
+        }
+        
+
+        a.reg.btn.btn-primary,  a.reg1.btn.btn-primary{
+            width:100%;
+          }
+        
+        div.row{
+            max-width:100%;
+        }
+        form#post-form.my-form-2{
+            margin-left:8%;
+            max-width:90%;
+        }
+        form#post-form.my-form-3{
+            width:100%;
+        }
+      
+        button.like{
+            background-color: #212121;
+            color:#fff;
+        }
+        div.profile-card.card{
+            background-color: #212121;
+            max-width: 100%;
+            padding:0;
+            margin:1.3rem;
+        }
+        
+        div.profile-card-.card{
+            background-color: #212121;
+            width: 94%;
+            margin-left:6%;
+            margin-bottom:7rem;
+        }
+        div.container-fluid.fluid{
+            width:30%;
+        }
+        img.card-img-top.my-avatar{
+            width:100%;
+            padding:0;
+            margin:0;
+        }
+        img.card-img-top.my-avatar-one{
+            width:100%;
+            padding:0;
+            margin:0;
+        }
+        
+        
+        
+        img.card-img-post-card-mid.top{
+            width:308.6px;
+        }
+        
+        #bg-dark{
+            margin-bottom:4rem;
+        }
+        
+        #post-body{
+            width:100%;
+            height:500px;
+            margin:0;
+            padding:0;
+            background-color: #212121;
+        }
+        #post-body1{
+            width:28.3rem;
+            margin-left:-1.5%;
+        }
+        #profile-body{
+            background-color: #212121;
+        }
+        .h-1{
+            text-align:center;
+            margin-left:0;
+        }
+        
+        
+      
+         
+        div.sign-up-now1, div.sign-up-now{
+            width:70%;
+            padding:0;
+            margin-left:15%;
+            background-color: #212121;
+        }
+        .login{
+            border:2px solid #fff;
+        }
+        .logout{
+            width:20%; 
+        }
+        div.fluid-2.container{
+            width:100%;
+            padding-left:1.1rem;
+        }
+        div#fluid-2.row{
+            width:100%;
+        }
+        .back{
+            margin-left:1.3rem;
+        }
+        h5.counter{
+            text-align:center;
+            margin-left:-15%;
+        }
+        
+        .email-title-, .profile-title-{
+            color:#fff;
+        }
+        
+        div#sm.col-sm-4.col{
+            margin-top:30%;
+        
+        }
+        div#sm2.col-sm-4.col{
+            margin-top:70%;
+        
+        }
+
+        
+        #profile-body-{
+            width:99%;
+            margin-left:.8%;
+            background-color: #212121;
+        }
+        
+        div.post-card-mid.card{
+        width:98%;
+        margin:0;
+        margin-left:-2%;
+        }
+        div.post-card-1.card{
+           margin-left:3%;
+        }
+        }
+        
+    
+    
+    
+    
+        @media (min-width:640px) and (max-width:667px){
+            div.feed-card.card{
+                margin-left:19%;
+            }
+            div.feed-card-1.card{
+                margin-left:21%;
+            }
+            div.profile-card.card{
+                width: 95%;
+                background-color:#212529;
+                border: none;
+                margin-left:1%;
+            }
+            div.post-card-1.card{
+                width: 99%;
+                background-color:#212121;
+                border: none;
+                margin-left:1%;
+                height:35rem;
+            }
+            img.card-img-top.top-avatar{
+                width:100%;
+                padding:0;
+                margin:0;
+            }
+            
+            
+            img.card-img-top.post-card-mid{
+                width:100%;
+            
+            }
+            
+            .password, .email, .name, .password1, .email-2
+            {
+                border:2px solid #fff;
+            }
+
+            div.card-body{
+                border-style:none;
+                width:100%;
+            }
+            
+            .top-avatar{
+                max-width:100%;
+            }
+            
+            img.my-avatar{
+                max-width:100%;
+                margin-left:-5px;
+                border-bottom:none !important;
+            }
+            div.post-card.card{
+                max-width:100%;
+                margin-left:11%;
+                background-color: #212121;
+            }
+
+            .delete-button{
+                margin-top:.7rem;
+                margin-left:-10%;
+                background-color: #212121;
+                }
+            div.post-card-mid.card{
+                width:100%;
+                margin:0;
+                padding:0;
+                background-color: #212121;
+            }
+            div.post-card-mid.card-body{
+                width:304px;
+                background-color: #212529;
+                margin-left:-10%;
+            }
+            
+            
+            div.container-fluid{
+                width:100%;
+                margin:0 !important;
+                padding:0 !important;
+            }
+            
+            
+            div.row{
+                max-width:100%;
+            }
+            form#post-form.my-form-2{
+                margin-left:13%;
+                max-width:100%;
+                margin-top:5%;
+            }
+            form#post-form.my-form-3{
+                width:60%;
+            }
+      
+         
+            button.like{
+                background-color: #212121;
+                color:#fff;
+            }
+            div.profile-card.card{
+                background-color: #212121;
+                width: 100%;
+                margin-bottom:10rem;
+            }
+            
+            div.profile-card-.card{
+                background-color: #212121;
+                width: 95%;
+                margin-left:5%;
+                height:30rem;
+                margin-bottom:8rem;
+            }
+
+            h5.counter{
+                margin-left:13%;
+            }
+            div.container-fluid.fluid{
+                width:30%;
+            }
+            img.card-img-top.my-avatar{
+                width:100%;
+                padding:0;
+                margin:0;
+            }
+            img.card-img-top.my-avatar-one{
+                width:100%;
+                padding:0;
+                margin:0;
+            }
+            
+            
+            
+            img.card-img-post-card-mid.top{
+                width:308.6px;
+            }
+            
+            
+            
+            #post-body{
+                width:100%;
+                margin:0;
+                padding:0;
+                background-color: #212121;
+            }
+            #post-body1{
+                width:28.3rem;
+                margin-left:-1.5%;
+            }
+            #profile-body{
+                background-color: #212121;
+            }
+            .h-1{
+                text-align:center;
+                margin-left:0;
+                margin-top:20rem;
+            }
+            
+            
+            a.reg.btn.btn-primary,  a.reg1.btn.btn-primary{
+                width:94%;
+              }
+             
+             
+            div.sign-up-now1, div.sign-up-now{
+                width:62.5%;
+                padding:0;
+                margin-left:18.5%;
+                background-color: #212121;
+            }
+            .login{
+                border:2px solid #fff;
+            }
+            .logout{
+                width:20%; 
+            }
+            div.fluid-2.container{
+                width:100%;
+                padding-left:1.1rem;
+            }
+            div#fluid-2.row{
+                width:100%;
+            }
+            .back{
+                margin-left:1.3rem;
+            }
+            
+            .email-title-, .profile-title-{
+                color:white;
+                text-align: center;
+            }
+            
+            div#sm.col-sm-4.col{
+                margin-top:30%;
+            
+            }
+            div#sm2.col-sm-4.col{
+                margin-top:70%;
+            
+            }
+            #profile-body-{
+                width:99%;
+                margin-left:.8%;
+                background-color: #212121;
+            }
+            
+            div.post-card-mid.card{
+            width:98%;
+            margin:0;
+            margin-left:-2%;
+            }
+            div.post-card-1.card{
+               margin-left:3%;
+               margin-top:5rem;
+            }
+            }
+            
+        
+        
+        
+            
+            @media (min-width:719px) and (max-width:768px){
+                .delete-button{
+                    margin-left:-50%;
+                    background-color: #212121;
+                    }
+
+                div.feed-card.card{
+                    margin-left:25%;
+                }
+                div.feed-card-1.card{
+                    margin-left:25%;
+                }
+                div.profile-card.card{
+                    width: 95%;
+                    background-color:#212529;
+                    border: none;
+                    margin-left:5%;
+                }
+                div.post-card-1.card{
+                    width: 99%;
+                    background-color:#212121;
+                    border: none;
+                    margin-left:1%;
+                    height:30rem;
+                }
+                img.card-img-top.top-avatar{
+                    width:100%;
+                    padding:0;
+                    margin:0;
+                }
+                
+               #bg-dark{
+                width:100%;
+               }
+
+                img.card-img-top.post-card-mid{
+                    width:100%;
+                
+                }
+                
+                div#post-card{
+                    margin-top:-0.7rem;
+                }
+                
+                div.card-body{
+                    border-style:none;
+                    width:100%;
+                }
+                
+                .top-avatar{
+                    max-width:100%;
+                }
+                
+                img.my-avatar{
+                    max-width:100%;
+                    margin-left:-5px;
+                    border-bottom:none !important;
+                }
+                div.post-card.card{
+                    width:100%;
+                    margin-left:1.5rem;
+                    background-color: #212121;
+                    margin-top:-1.4rem;
+                }
+                div.post-card-mid.card{
+                    width:100%;
+                    margin:0;
+                    padding:0;
+                    background-color: #212121;
+                }
+                div.post-card-mid.card-body{
+                    width:304px;
+                    background-color: #212529;
+                    margin-left:-10%;
+                }
+                
+                
+                div.container-fluid{
+                    width:100%;
+                    margin:0 !important;
+                    padding:0 !important;
+                }
+                .password, .email, .name, .password1, .email-2
+                {
+                    border:2px solid #fff;
+                }
+                
+                
+                div.row{
+                    max-width:100%;
+                }
+                form#post-form.my-form-2{
+                    margin-left:10%;
+                }
+                form#post-form.my-form-3{
+                    width:60%;
+                }
+                button.like{
+                    background-color: #212121;
+                    color:#fff;
+                }
+                div.profile-card.card{
+                    background-color: #212121;
+                    max-width: 100%;
+                    padding:0;
+                    margin-left:3.3rem;
+                }
+                div.profile-card-.card{
+                    background-color: #212121;
+                    width: 95%;
+                    margin-left:5%;
+                    margin-bottom:13rem;  
+                }
+
+                h5.counter{
+                    margin-left:11%;
+                }
+
+                div.container-fluid.fluid{
+                    width:30%;
+                }
+                img.card-img-top.my-avatar{
+                    width:100%;
+                    padding:0;
+                    margin:0;
+                    margin-top:-20%;
+                }
+                img.card-img-top#my-avatar{
+                    width:100%;
+                    padding:0;
+                    margin:0;
+                    margin-top:-9.5%;
+                }
+                img.card-img-top.my-avatar-one{
+                    width:100%;
+                    padding:0;
+                    margin:0;
+                }
+                
+             
+                
+                
+                img.card-img-post-card-mid.top{
+                    width:308.6px;
+                }
+                
+                
+                
+                #post-body{
+                    width:100%;
+                    margin:0;
+                    padding:0;
+                    background-color: #212121;
+                }
+                #post-body1{
+                    width:28.3rem;
+                    margin-left:-1.5%;
+                }
+                #profile-body{
+                    background-color: #212121;
+                }
+                .h-1{
+                    text-align:center;
+                    margin-left:7%;
+                }
+                
+                
+                a.reg.btn.btn-primary,  a.reg1.btn.btn-primary{
+                    width:96%;
+                  }
+                 
+                div.sign-up-now1, div.sign-up-now{
+                    width:51.5%;
+                    padding:0;
+                    margin-left:24.4%;
+                    background-color: #212121;
+                }
+                .login{
+                    border:2px solid #fff;
+                }
+                .logout{
+                    width:20%; 
+                }
+                div.fluid-2.container{
+                    width:100%;
+                    padding-left:1.1rem;
+                }
+                div#fluid-2.row{
+                    width:100%;
+                }
+                .back{
+                    margin-left:1.3rem;
+                }
+                
+                .email-title-, .profile-title-{
+                    color:white;
+                    text-align:center;
+                }
+
+                .email-title, .profile-title{
+                    color:white;
+                    text-align: left;
+                }
+                
+                div#sm.col-sm-4.col{
+                    margin-top:30%;
+                
+                }
+                div#sm2.col-sm-4.col{
+                    margin-top:70%;
+                
+                }
+                #profile-body-{
+                    width:99%;
+                    margin-left:.8%;
+                    background-color: #212121;
+                }
+                
+                div.post-card-mid.card{
+                width:98%;
+                margin:0;
+                margin-left:-2%;
+                }
+                div.post-card-1.card{
+                   margin-left:3%;
+                   margin-top:15rem;
+                }
+                }
+                
+            
+                        
+                @media (min-width:812px) and (max-width:823px){
+                    div.feed-card.card{
+                        margin-left:28%;
+                    }
+                    div.feed-card-1.card{
+                        margin-left:27%;
+                    }
+                  
+                    div.post-card-1.card{
+                        width: 99%;
+                        background-color:#212121;
+                        border: none;
+                        margin-left:1%;
+                        height:40rem;
+                    }
+                    img.card-img-top.top-avatar{
+                        width:100%;
+                        padding:0;
+                        margin:0;
+                    }
+                    
+                    
+                    img.card-img-top.post-card-mid{
+                        width:100%;
+                    
+                    }
+                    
+                    #first-post-card{
+                        margin-top:1rem;
+                    }
+                    
+                    div.card-body{
+                        border-style:none;
+                        width:100%;
+                    }
+
+                    .password, .email, .name, .password1, .email-2
+                    {
+                        border:2px solid #fff;
+                    }
+                    
+                    
+                    .top-avatar{
+                        max-width:100%;
+                    }
+                    
+                    img.my-avatar{
+                        max-width:100%;
+                        margin-left:-5px;
+                        border-bottom:none !important;
+                    }
+                    div.post-card.card{
+                        width:100%;
+                        margin-left:1.5rem;
+                        background-color: #212121;
+                    }
+                    div.post-card-mid.card{
+                        width:100%;
+                        margin:0;
+                        padding:0;
+                        background-color: #212121;
+                    }
+                    div.post-card-mid.card-body{
+                        width:304px;
+                        background-color: #212529;
+                        margin-left:-10%;
+                    }
+                    
+                    
+                    div.container-fluid{
+                        width:100%;
+                        margin:0 !important;
+                        padding:0 !important;
+                    }
+
+                    .delete-button{
+                        margin-top:-1rem;
+                        background-color: #212121;
+                        margin-left:-60%;
+                    }
+                    div#post-card{
+                        margin-top:-0.4rem;
+                        margin-left:2rem;
+                    }
+                    
+                    
+                    div.row{
+                        max-width:100%;
+                    }
+                    form#post-form.my-form-2{
+                        margin-left:4%;
+                        width:100%;
+                    }
+                    button.like{
+                        background-color: #212121;
+                        color:#fff;
+                    }
+                    div.profile-card.card{
+                        background-color: #212121;
+                        max-width: 100%;
+                        padding:0;
+                        margin-left:2rem;
+                    }
+                    div.profile-card-.card{
+                        background-color: #212121;
+                        margin-left:4%;
+                    }
+
+                    h5.counter{
+                        margin-left:8%;
+                    }
+                    div.container-fluid.fluid{
+                        width:30%;
+                    }
+                    img.card-img-top.my-avatar{
+                        width:100%;
+                        padding:0;
+                        margin:0;
+                        margin-top:-26%;
+                    }
+                    img.card-img-top#my-avatar{
+                        width:100%;
+                        padding:0;
+                        margin:0;
+                        margin-top:-13%;
+                    }
+                    
+                    
+                    img.card-img-post-card-mid.top{
+                        width:308.6px;
+                    }
+                    
+                    #bg-dark{
+                        width:100%;
+                    }
+                    
+                    #post-body{
+                        width:100%;
+                        margin:0;
+                        padding:0;
+                        background-color: #212121;
+                    }
+                    #post-body1{
+                        width:28.3rem;
+                        margin-left:-1.5%;
+                    }
+                    #profile-body{
+                        background-color: #212121;
+                    }
+                    .h-1{
+                        text-align:left;
+                        margin-left:7%;
+                    }
+                    
+                    
+                    a.reg.btn.btn-primary,  a.reg1.btn.btn-primary{
+                        width:96%;
+                      }
+                     
+                    div.sign-up-now1, div.sign-up-now{
+                        width:48%;
+                        padding:0;
+                        margin-left:26%;
+                        background-color: #212121;
+                    }
+                    .login{
+                        border:2px solid #fff;
+                    }
+                    .logout{
+                        width:20%; 
+                    }
+                    div.fluid-2.container{
+                        width:100%;
+                        padding-left:1.1rem;
+                    }
+                    div#fluid-2.row{
+                        width:100%;
+                    }
+                    .back{
+                        margin-left:1.3rem;
+                    }
+                    
+                    .email-title-, .profile-title-{
+                        color:white;
+                        width:300px;
+                        margin-left:-10%;
+                    }
+                    .email-title, .profile-title{
+                        color:white;
+                        text-align: left;
+                    }
+                    div#sm.col-sm-4.col{
+                        margin-top:30%;
+                    
+                    }
+                    div#sm2.col-sm-4.col{
+                        margin-top:70%;
+                    
+                    }
+                    #profile-body-{
+                        width:99%;
+                        margin-left:.8%;
+                        background-color: #212121;
+                    }
+                    
+                    div.post-card-mid.card{
+                    width:98%;
+                    margin:0;
+                    margin-left:-2%;
+                    }
+                    div.post-card-1.card{
+                       margin-left:3%;
+                       margin-top:20rem;
+                    }
+                    }
+            
+            
+        
+                                
+            @media (min-width:824px) and (max-width:1024px){
+              
+                div.profile-card.card{
+                    width: 95%;
+                    background-color:#212529;
+                    border: none;
+                    margin-left:1%;
+                }
+                div.profile-card-.card{
+                    width: 95%;
+                    background-color:#212529;
+                    border: none;
+                    margin-left:1%;
+                }
+                div.post-card-1.card{
+                    width: 99%;
+                    background-color:#212121;
+                    border: none;
+                    margin-left:1%;
+                    height:50rem;
+                    margin-top:10rem;
+                }
+                img.card-img-top.top-avatar{
+                    padding:0;
+                    margin:0;
+                    max-width:87%;
+                    margin-left:5%;
+                }
+                
+                
+                img.card-img-top.post-card-mid{
+                    width:100%;
+                
+                }
+                
+                
+
+                h5.counter{
+                    margin-left:5%;
+                }
+                
+                div.card-body{
+                    border-style:none;
+                    width:100%;
+                }
+                
+        
+                
+                img.my-avatar{
+                    max-width:100%;
+                    margin-left:-5px;
+                    border-bottom:none !important;
+                }
+                div.post-card.card{
+                    width:100%;
+                    margin-left:1.5rem;
+                    background-color: #212121;
+                }
+                div.post-card-mid.card{
+                    width:100%;
+                    margin:0;
+                    padding:0;
+                    background-color: #212121;
+                }
+                div.post-card-mid.card-body{
+                    width:304px;
+                    background-color: #212529;
+                    margin-left:-10%;
+                }
+                div#post-card{
+                    margin-top:-0.8rem;
+                }
+                
+                div.navbar-nav{
+                    width:100%;
+                }
+                
+                div.container-fluid{
+                    width:100%;
+                    margin:0 !important;
+                    padding:0 !important;
+                }
+
+                div.feed-card-1.card{
+                    margin-left:31%;
+                }
+                div.feed-card.card{
+                    margin-left:31%;
+                }
+                
+                
+                div.row{
+                    max-width:100%;
+                }
+                form#post-form.my-form-2{
+                    margin-left:4%;
+                    max-width:90%;
+                }
+                button.like{
+                    background-color: #212121;
+                    color:#fff;
+                }
+                div.profile-card.card{
+                    background-color: #212121;
+                    max-width: 100%;
+                    padding:0;
+                    margin:1.3rem;
+                }
+                div#profile-card.card{
+                    background-color: #212121;
+                    max-width: 100%;
+                    padding:0;
+                }
+                
+                div.profile-card-.card{
+                    background-color: #212121;
+                    max-width: 95%;
+                    padding:0;
+                    margin-left:7%;
+                    margin-bottom:5rem;
+                }
+                div.container-fluid.fluid{
+                    width:30%;
+                }
+                img.card-img-top.my-avatar{
+                    width:100%;
+                    padding:0;
+                    margin:0;
+                    margin-top:-5%;
+                }
+                img.card-img-top#my-avatar{
+                    width:100%;
+                    padding:0;
+                    margin:0;
+                    margin-top:1%;
+                }
+                img.card-img-top.my-avatar-one{
+                    width:100%;
+                    padding:0;
+                    margin:0;
+                }
+                
+                
+                
+                img.card-img-post-card-mid.top{
+                    width:308.6px;
+                }
+                
+                
+                
+                #post-body{
+                    width:100%;
+                    margin:0;
+                    padding:0;
+                    background-color: #212121;
+                }
+                #post-body1{
+                    width:28.3rem;
+                    margin-left:-1.5%;
+                }
+                #profile-body{
+                    background-color: #212121;
+                }
+                .h-1{
+                    text-align:left;
+                    margin-left:7%;
+                }
+                
+
+                #first-post-card{
+                    margin-top:.5rem;
+                }
+                a.reg.btn.btn-primary,  a.reg1.btn.btn-primary{
+                    width:96%;
+                  }
+                 
+                div.sign-up-now1, div.sign-up-now{
+                    width:38%;
+                    padding:0;
+                    margin-left:31%;
+                    background-color: #212121;
+                }
+                .login{
+                    border:2px solid #fff;
+                }
+                .logout{
+                    width:10%; 
+                }
+                div.fluid-2.container{
+                    width:100%;
+                    padding-left:1.1rem;
+                }
+                div#fluid-2.row{
+                    width:100%;
+                }
+                .back{
+                    margin-left:1.3rem;
+                }
+                .delete-button{
+                    background-color:#212121;
+                }
+                .email-title-, .profile-title-{
+                    color:white;
+                    text-align: center;
+                }
+                .email-title, .profile-title{
+                    color:white;
+                    text-align: left;
+                }
+                .password, .email, .name, .password1, .email-2
+                {
+                    border:2px solid #fff;
+                }
+                
+                div#sm.col-sm-4.col{
+                    margin-top:30%;
+                
+                }
+                div#sm2.col-sm-4.col{
+                    margin-top:70%;
+                
+                }
+                #profile-body-{
+                    width:99%;
+                    margin-left:.8%;
+                    background-color: #212121;
+                }
+                
+                div.post-card-mid.card{
+                width:98%;
+                margin:0;
+                margin-left:-2%;
+                }
+                div.post-card-1.card{
+                   margin-left:3%;
+                }
+                #bg-dark{
+                    width:100%;
+                }
+                }
+
+                @media (min-width:1025px) and (max-width:1366px){
+              
+                    div.profile-card.card{
+                        width: 95%;
+                        background-color:#212529;
+                        border: none;
+                        margin-left:1%;
+                    }
+                    div.profile-card-.card{
+                        width: 95%;
+                        background-color:#212529;
+                        border: none;
+                        margin-left:1%;
+                        margin-bottom:10rem;
+                    }
+               
+                    img.card-img-top.top-avatar{
+                        width:92%;
+                        padding:0;
+                        margin:0;
+                        margin-left:5%;
+                    }
+
+
+                    img.card-img-top.post-card-mid{
+                        width:100%;
+                    
+                    }
+                    
+                    div.navbar-nav{
+                        width:100%;
+                    }
+                    
+                    
+                    div.card-body{
+                        border-style:none;
+                        width:100%;
+                    }
+                    
+                 
+                    
+                    img.my-avatar{
+                        max-width:100%;
+                        margin-left:-5px;
+                        border-bottom:none !important;
+                    }
+                    div.post-card.card{
+                        width:100%;
+                        margin-left:1.5rem;
+                        background-color: #212121;
+                    }
+                    div.post-card-mid.card{
+                        width:100%;
+                        margin:0;
+                        padding:0;
+                        background-color: #212121;
+                    }
+                    div.post-card-mid.card-body{
+                        width:304px;
+                        background-color: #212529;
+                        margin-left:-10%;
+                    }
+                    
+                    
+                    div.container-fluid{
+                        width:100%;
+                        margin:0 !important;
+                        padding:0 !important;
+                    }
+                    
+                    div.feed-card-1.card, .div-feed-card.card{
+                        margin-left:36%;
+                    }
+                    
+                    
+                    div.row{
+                        max-width:100%;
+                    }
+                    form#post-form.my-form-2{
+                        margin-left:4%;
+                        max-width:90%;
+                    }
+                    button.like{
+                        background-color: #212121;
+                        color:#fff;
+                    }
+                    div.profile-card.card{
+                        background-color: #212121;
+                        max-width: 100%;
+                        padding:0;
+                        margin:1.3rem;
+                    }
+                    div.profile-card-.card{
+                        background-color: #212121;
+                        max-width: 95%;
+                        padding:0;
+                        margin-left:7%;
+                        display:flex;
+                    }
+                    div.container-fluid.fluid{
+                        width:30%;
+                    }
+                    img.card-img-top.my-avatar{
+                        width:100%;
+                        padding:0;
+                        margin:0;
+                        margin-top:-2%;
+                    }
+                    img.card-img-top#my-avatar{
+                        width:100%;
+                        padding:0;
+                        margin:0;
+                        margin-top:0%;
+                    }
+                    img.card-img-top.my-avatar-one{
+                        width:100%;
+                        padding:0;
+                        margin:0;
+                    }
+                    
+                    
+                    
+                    img.card-img-post-card-mid.top{
+                        width:308.6px;
+                    }
+                    
+                    #bg-dark{
+                        margin-bottom:2rem;
+                    }
+                    
+                    #post-body{
+                        width:100%;
+                        margin:0;
+                        padding:0;
+                        background-color: #212121;
+                    }
+                    #post-body1{
+                        width:28.3rem;
+                        margin-left:-1.5%;
+                    }
+                    #profile-body{
+                        background-color: #212121;
+                    }
+                    .h-1{
+                        text-align:left;
+                        margin-left:7%;
+                        margin-top:18rem;
+                    }
+                    
+                    
+                    a.reg.btn.btn-primary, a.reg1.btn.btn-primary{
+                        width:96%;
+                      }
+                     
+                    div.sign-up-now1, div.sign-up-now{
+                        width:28.5%;
+                        padding:0;
+                        margin-left:35.8%;
+                        background-color: #212121;
+                    }
+                    .login{
+                        border:2px solid #fff;
+                    }
+                    .logout{
+                        width:8%; 
+                    }
+                    div.fluid-2.container{
+                        width:100%;
+                        padding-left:1.1rem;
+                    }
+                    div#fluid-2.row{
+                        width:100%;
+                    }
+                    .back{
+                        margin-left:1.3rem;
+                    }
+                    
+                    .email-title-, .profile-title-{
+                        color:white;
+                        text-align: center;
+                    }
+                    .password, .email, .name, .password1, .email-2
+                    {
+                        border:2px solid #fff;
+                    }
+                    
+                    div#sm.col-sm-4.col{
+                        margin-top:30%;
+                    
+                    }
+                    div#sm2.col-sm-4.col{
+                        margin-top:70%;
+                    
+                    }
+                    #profile-body-{
+                        width:99%;
+                        margin-left:.8%;
+                        background-color: #212121;
+                
+                    }
+                    
+                    div.post-card-mid.card{
+                    width:98%;
+                    margin:0;
+                    margin-left:-2%;
+                    }
+               
+                    div.post-card-1.card{
+                        width: 99%;
+                        background-color:#212121;
+                        border: none;
+                        margin-left:1%;
+                        height:50rem;
+                        margin-left:3%;
+                        margin-top:12rem;
+                    }
+                    div#post-card{
+                        margin-top:-0.6rem;
+                    }
+                    h5.counter{
+                        margin-left:4%;
+                    }
+                    .delete-button{
+                        background-color:#212121;
+                        margin-top:.6rem;
+                    }
+                    }
