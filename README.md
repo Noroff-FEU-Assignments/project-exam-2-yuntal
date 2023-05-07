@@ -1,89 +1,84 @@
-# Project Exam 2
-## Goal
-To take the skills learned over the last two years and take on an extensive project where the finished product should reflect the candidate's general development capabilities, in addition to visual and technical skills.
+# JS Frameworks Course Assignment
 
 ## Brief
-An existing Social Media company has approached you to create a brand new front end for their application. While they have a list of required features, the design and user experience has not been specified. Working with the official API documentation, plan, design and build a modern front end social media application.
 
-## Requirements
+Create either a new React or Next.js app in this repo.
 
-> All admin functionality is managed by an existing application. This project only covers the front-end application for the API.
+For the login functionality, use either a Wordpress installation with the <a href="https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/" target="_blank">JWT plugin from Module 3</a> installed, or a Strapi installation. Do not add either of these to your repo. Your API should remain a separate project. The markers will use their own installations when marking.
 
-## API
+You can use either a REST or GraphQL API for the API calls.
 
-The API you are using for this project can be found under Social EndPoints in the [Noroff API documentation](https://noroff-api-docs.netlify.app/).
+---
 
-### Resources
+## Assessment
 
-[API Guide](https://noroff-api-docs.netlify.app/social-endpoints/authentication)
-[API Documentation](https://nf-api.onrender.com/docs)
+Please provide your login credentials for assessment.
 
-### User Stories
+Example
+- username: xxxxxx
+- password: xxxxxx
 
-The client has specified the following requirements in the form of *User Stories*:
-1. A user with a `stud.noroff.no` email may register
-2. A registered user may login
-3. A registered user may update their avatar and banner
-4. A registered user may logout
-5. A registered user may view a list of `Posts`
-6. A registered user may view a list of `Profiles`
-7. A registered user may view a single `Post` by `id`
-8. A registered user may view a single `Profile` by `name`
-9. A registered user may create a `Post`
-10. A registered user may update a `Post` they own
-11. A registered user may delete a `Post` they own
-12. A registered user may create a `Comment` on any `Post`
-13. A registered user may `react` to any `Post` with an emoji
-14. A registered user may `follow` and `unfollow` another `Profile`
+## Level 1
 
-### Technical Restrictions
+Your app should have the following paths:
 
-The company CTO has set the following technical restrictions:
-1. Must use an approved `JavaScript Framework`
-2. Must use an approved `CSS Framework`
-3. Must be hosted on an approved `Static Host`
-4. Must use an approved `Design Application`
-5. Must use an approved `Planning Application`
+-   "/"
+-   "/detail/:param"
+-   "/contact"
+-   "/login"
+-   "/admin"
 
-### Required Links
+The admin path won't appear in your navigation.
 
-The Product Owner has requested links to the following:
-1. A Gantt chart for project timing
-2. A design prototype
-3. A style guide
-4. A kanban project board
-5. A repository link
-6. A hosted application demo link
+Use reusable components where appropriate and pay attention to how the components are arranged.
 
-## Approved Resources
-This list covers libraries and services that have been vetted by the company and approved for use.
+### Home
 
-### JavaScript Frameworks
-- React (>16)
+Find an API that returns at least:
 
-### CSS Frameworks
-- Bootstrap (>5)
-- Tailwind (>3)
-- MUI (>5)
-- Styled Components
-- CSS Modules
+-   an array of items
+-   a single item retrieved by a parameter (id, name, slug, etc)
 
-### Hosting Services
-- GitHub Pages
-- Netlify
+If you are using Next you can also hard-code json and return it from API routes created in `pages/api/*`.
 
-### Design Applications
-- Adobe XD
-- Figma
-- Sketch
+You can use your own Wordpress or Strapi or any other API that you have created for these calls but it must be publically hosted - it must not be running on your localhost.
 
-### Planning Applications
-- Trello
-- GitHub Projects
+Display at least 2 properties from each result.
 
-## Delivery
-Include the required links in the Moodle delivery window using [this template format](delivery-template.html).
+Each result should link to the detail page, passing a parameter in the URL.
 
-All final changes must be merged into the default branch `main` or `master`. Other branches will not be checked.
+### Detail
 
-Ensure that the `readme.md` file describes your project thoroughly, including how to setup and run the project locally and any special instructions for testers.
+Retrieve the parameter from the URL and use it in an API call to fetch one item.
+
+Display at least 3 properties from the item.
+
+### Contact
+
+Create a form with the following inputs and validation:
+
+-   First name - required, minimum 3 characters
+-   Last name - required, minimum 4 characters
+-   Email - required, must be in a valid email format
+-   Subject - required, this must be a select box with at least 2 options
+-   Message - required, minimum 10 characters.
+
+### Login
+
+Create a form with username/email and password fields. The inputs should have the necessary validation for a login form (not a registration form).
+
+The form should make a login request to either a Wordpress API with the JWT plugin installed or a Strapi API. If the login is successful redirect the user to the admin route.
+
+If the login is unsuccessful display a message above the form.
+
+### Admin
+
+This page will simply display an "Admin" heading.
+
+---
+
+## Level 2
+
+Add a favourite button/icon component to each result on your home page. Clicking this button will toggle the result in/out of a favourites array.
+
+Add a "/favourites" path to your routes. This page will display all the items currently in the favourites array.
